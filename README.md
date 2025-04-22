@@ -2,7 +2,7 @@
 A tool to allow the general public to perform secret sharing.
 
 You have a question or want to provide feedback?
-Feel free to [add an issue](https://github.com/acrusage/PeerLock/issues/new/choose)!
+Feel free to [create an issue](https://github.com/acrusage/PeerLock/issues/new/choose)!
 
 # Privacy Policy
 
