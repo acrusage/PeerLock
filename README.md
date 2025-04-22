@@ -1,7 +1,7 @@
 # PeerLock
 A tool to allow the general public to perform secret sharing.
 
-Please feel free to add issues for feedback or to ask question!
+Please feel free to [add an issue](https://github.com/acrusage/PeerLock/issues/new/choose) for feedback or to ask question!
 
 # Privacy Policy
 
